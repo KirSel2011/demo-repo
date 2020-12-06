@@ -1,0 +1,3 @@
+This is a blank file which will 
+be used for the storing some written
+texts.
